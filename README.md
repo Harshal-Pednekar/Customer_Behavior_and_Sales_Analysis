@@ -93,6 +93,7 @@ Focuses on:
 - Seasonal Revenue Trends
 
 ### Dashboard 2 – Customer & Loyalty Insights
+![Dashboard](Dash2-Customer_Behavior_&_Loyalty_Analysis.png)
 
 Focuses on:
 - Customer Segmentation
