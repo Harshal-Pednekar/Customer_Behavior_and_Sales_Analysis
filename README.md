@@ -82,7 +82,7 @@ A **Customer Segment** column was created in Power BI to categorize customers as
 ## 📈 Power BI Dashboards
 
 ### Dashboard 1 – Sales & Product Insights
-(Dash1-Customer_Sales_&_Product_Performance.png)
+![Dashboard](Dash1-Customer_Sales_&_Product_Performance.png)
 
 Focuses on:
 - Revenue by Category
