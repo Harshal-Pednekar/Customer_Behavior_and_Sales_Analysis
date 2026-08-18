@@ -125,29 +125,6 @@ Focuses on:
 
 ---
 
-## 📁 Project Structure
-
-```text
-Customer-Behaviour-Analysis/
-│
-├── data/
-│   └── customer_data.csv
-│
-├── python/
-│   └── customer_analysis.ipynb
-│
-├── sql/
-│   └── customer_analysis.sql
-│
-├── powerbi/
-│   └── customer_behaviour_analysis.pbix
-│
-├── screenshots/
-│   ├── dashboard_1.png
-│   └── dashboard_2.png
-│
-└── README.md
-
 
 ## 🙏 Acknowledgements
 
